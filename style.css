@@ -1,0 +1,226 @@
+.Gcarré{
+    background-color: chartreuse;
+    padding: 8%;
+    margin-left: 10%;
+    margin: 10%;
+}
+.Mcarré{
+
+    background-color: blueviolet;
+    padding: 15%;
+
+}
+.Pcarré{
+    background-color: chocolate;
+    padding: 8%;
+
+}
+.gcarré{
+   background-color: chartreuse;
+    padding: 8%;
+    margin-left: 10%;
+    margin: 10%
+
+}
+.mcarré{
+    background-color: blueviolet;
+    position: relative;
+    width: 100%;
+    padding: 5%;
+    left: 10%;
+
+}
+.pcarré{
+
+    background-color: chocolate;
+    position: relative;
+    padding: 5%;
+    right: 40%;
+}
+
+.acarré{
+    background-color: chartreuse;
+    padding: 15%;
+    margin-left: 10%;
+    margin: 10%;
+    width: 50%;
+
+
+
+}
+.bcarré{
+  background-color: blueviolet;
+    padding: 20%;
+
+}
+.ccarré{
+    position: absolute;
+    background-color: chocolate;
+    padding: 15%;
+    margin-top: 26%;
+    width: 5px;
+}
+.aacarré{
+    margin-top: 450px;
+    position: relative;
+    background-color: lightblue;
+    width: 100%;
+    height: 100px;
+
+}
+.bbcarré{
+    position: absolute;
+    background-color: chartreuse;
+    padding: 8%;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+
+.ppcarré{
+    background-color: blueviolet;
+    position: absolute;
+    padding: 15%;
+    top: 30%;
+    right:23% ;
+    width: 20%;
+    height: 20%;
+}
+.scarré{
+    background-color: chocolate;
+    position: relative;
+    padding: 95%;
+    margin-top: 150px;
+    margin-left: 250px;
+
+}
+
+.a{
+    height:450px;
+    width: 450px;
+    background-color: lightblue;
+    margin-top: 600px;
+    margin-left: 35%;
+}
+.b{
+    position: relative;
+    background-color: chartreuse;
+    width: 150px;
+    height:150px ;
+    margin: 20px;
+    top: 20px;
+}
+.d{
+    position: relative;
+    background-color: blue;
+    width: 150px;
+    height:150px ;
+    float: right;
+    bottom: 300px;
+    right: 20px;
+}
+.c{
+    position: relative;
+    background-color: orange;
+    width: 150px;
+    height:150px ;
+    top :100px;
+    left: 20px;
+}
+.e{
+    position: relative;
+    background-color: yellow;
+    width: 150px;
+    height:150px ;
+    float: right;
+    left: 120px;
+    bottom: 50px;
+}
+.aa{
+    height:450px;
+    width: 450px;
+    background-color: lightblue;
+    margin-top: 600px;
+    margin-left: 35%;
+}
+.a6{
+    position: relative;
+    background-color: chartreuse;
+    width: 150px;
+    height:150px ;
+    margin: 20px;
+    top: 20px;
+}
+.b6{
+    position: relative;
+    background-color: blue;
+    width: 150px;
+    height:150px ;
+    left: 50px;
+    bottom: 100px;
+    z-index: 2;
+}
+.d6 {
+    position: relative;
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    bottom: 150px;
+    left: 150px;
+    z-index: 1;
+}
+.e6 {
+    position: relative;
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    bottom: 250px;
+    left: 200px;
+}
+.a7 {
+    position: relative;
+    background-color: chartreuse;
+    width: 150px;
+    height:150px ;
+}
+.b7 {
+    position: relative;
+    background-color: blue;
+    width: 150px;
+    height:150px ;
+    float: right;
+    right: 1205px;
+    bottom: 150px;
+}
+.c7 {
+    position: relative;
+    background-color: orange;
+    width: 735px;
+    height:150px ;
+}
+.d7 {
+    position: relative;
+    background-color: grey;
+    width: 150px;
+    height:150px ;
+    left: 420px;
+}
+.e7 {
+    position: relative;
+    background-color: yellow;
+    width: 150px;
+    height:150px ;
+    float: right;
+    bottom: 150px;
+    right: 785px;
+}
+footer{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    color: white;
+}
